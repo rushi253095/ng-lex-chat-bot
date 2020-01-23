@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-chat-bot-lex-dev-132429-authRole",
+            "UnauthRoleArn": "arn:aws:iam::133591376301:role/amplify-chat-bot-lex-dev-132429-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::133591376301:role/amplify-chat-bot-lex-dev-132429-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-chat-bot-lex-dev-132429-deployment",
+            "UnauthRoleName": "amplify-chat-bot-lex-dev-132429-unauthRole",
+            "StackName": "amplify-chat-bot-lex-dev-132429",
+            "StackId": "arn:aws:cloudformation:us-east-1:133591376301:stack/amplify-chat-bot-lex-dev-132429/6dd49c20-3cec-11ea-b74d-0aa958b6917a",
+            "AmplifyAppId": "d11xxw08hnqg3k"
+        },
+        "categories": {
+            "auth": {
+                "chatbotlex03aa2d36": {}
+            }
+        }
+    }
+}

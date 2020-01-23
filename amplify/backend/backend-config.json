@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"chatbotlex03aa2d36": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
